@@ -1,0 +1,7 @@
+<%@ page pageEncoding="UTF-8" %>
+<h2>Parking WebApp</h2>
+<div>
+    <a href="../../stays.jsp">Estadias</a>
+    <a href="../../history.jsp">Historico</a>
+</div>
+<hr>
